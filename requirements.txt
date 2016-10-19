@@ -1,7 +1,9 @@
 Pint==0.7.2
 pydle==0.8.2
-pylast==1.4.2
-redis==2.10.3
-requests==2.9.1
-slacker==0.9.0
+pylast==1.6.0
+redis==2.10.5
+requests==2.11.1
+six==1.10.0
+slacker==0.9.28
+tornado==4.4.2
 urbandictionary==1.1
